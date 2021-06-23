@@ -1,6 +1,6 @@
 Hi I'm Odain, a full-stack mobile and enterprise application developer with interests in fintech,
 trading, game development, and gamification. Tech Stack includes Firebase, Ionic, 
-Angular.js, Node.js, Unity Engine, Flutter, JavaScript, HTML, CSS, Python, C#/C/C++,
+Angular.js, Node.js, Unity Engine, Flutter, JavaScript, HTML, CSS, C#/C/C++,
 PHP, Java, Typescript.
 Dedicated to being a better Engineer than I was yesterday. #LifeLongLearner
 
